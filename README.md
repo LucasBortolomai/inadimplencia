@@ -1,6 +1,6 @@
 # Análise de **Risco de Inadimplência** em Empréstimos Pessoais
 
-Este README descreve uma análise realizada em uma fintech de crédito, com o objetivo de identificar os **fatores de risco** associados à inadimplência entre seus clientes. A análise foi conduzida com base em uma amostra de 1.000 clientes, observando sua performance de pagamento ao longo de 1 ano após a concessão do empréstimo.
+Este README descreve uma análise realizada em uma fintech de crédito, com o objetivo de identificar os **fatores de risco** associados à inadimplência entre seus clientes. A análise foi conduzida com base em uma amostra de 1.000 clientes, observando sua performance de pagamento ao longo do tempo.
 
 ## **Contexto**
 
